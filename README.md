@@ -32,17 +32,17 @@ Mean, median, and range of calories, sugar, caffeine, etc.
 
 Identified high/low-calorie drinks.
 
-![amount of calorie](top 10 highest calories.png)
+![amount of calorie](top_10_highest_calories.png)
 
 Category-Wise Analysis
 
 Top beverage categories by count.
 
-![Top bevarge by count](no of drinks per beverage.png)
+![Top bevarge by count](no_drinks_per_bevarage.png)
 
 Average nutritional values per category.
 
-![Nurtition per category](avg nutrion across drinks.png)
+![Nurtition per category](avg_nutrion_across_drinks.png)
 
 Correlation Analysis
 
@@ -50,7 +50,7 @@ Relationship between calories, sugar, and fat.
 
 Heatmap to visualize correlations.
 
-![correlation heatmap](correlation heat map.png)
+![correlation heatmap](correlation_heat_map.png)
 
 Visualizations
 
@@ -58,7 +58,7 @@ Bar charts for category distribution.
 
 Scatter plot (Calories vs Sugar).
 
-![calori va sugar](calories vs sugar.png)
+![calori va sugar](calories_vs_sugar.png)
 
 Heatmap for correlation matrix.
 
@@ -88,4 +88,4 @@ Future enhancements could include:
 
 Predicting calorie levels using machine learning.
 
-Interactive dashboards with Plotly or Power BI.# STARBURGS
+Interactive dashboards with Plotly or Power BI.
